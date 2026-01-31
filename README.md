@@ -366,7 +366,48 @@ Wir freuen uns über Community-Beiträge! | We welcome community contributions!
 
 ## 📄 Lizenz | License
 
-MIT License — Frei verwendbar, modifizierbar und weitergegeben werden.
+**CC BY-NC-SA 4.0** — Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇩🇪 Deutsch
+
+Das Vibe Coding Handbuch darf frei:
+- ✅ **Genutzt** werden (für persönliche, akademische, Bildungszwecke)
+- ✅ **Geteilt** werden (kopieren und weiterverbreiten)
+- ✅ **Angepasst** werden (remixen, transformieren, darauf aufbauen)
+
+**ABER:**
+- ❌ **NICHT für kommerzielle Zwecke**
+
+Änderungen müssen unter derselben Lizenz geteilt werden.
+
+**Für kommerzielle Nutzung, bitte kontaktieren:** Frank Jeworrek
+
+</td>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+
+The Vibe Coding Guide may be freely:
+- ✅ **Used** (for personal, academic, educational purposes)
+- ✅ **Shared** (copy and redistribute)
+- ✅ **Adapted** (remix, transform, build upon)
+
+**BUT:**
+- ❌ **NOT for commercial purposes**
+
+Modifications must be shared under the same license.
+
+**For commercial use, please contact:** Frank Jeworrek
+
+</td>
+</tr>
+</table>
+
+**Full license:** See [LICENSE.md](LICENSE.md) | https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Autor | Author:** Frank Jeworrek
 **Basierend auf | Based on:** THE_SONG_APP Project (28 weeks, 2025-2026)
