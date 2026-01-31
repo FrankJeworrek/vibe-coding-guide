@@ -1,3 +1,4 @@
+
 # 🚀 Das Universelle Vibe Coding Handbuch | The Universal Vibe Coding Guide
 
 **Version 3.0** — Sprach-agnostisch | Framework-agnostisch | Team-fähig
@@ -372,9 +373,9 @@ MIT License — Frei verwendbar, modifizierbar und weitergegeben werden.
 
 ## 📞 Support & Community
 
-- **Issues:** [GitHub Issues](https://github.com/your-org/vibe-coding-guide/issues)
-- **Diskussionen:** [GitHub Discussions](https://github.com/your-org/vibe-coding-guide/discussions)
-- **Email:** [Deine Email hier]
+- **Issues:** [GitHub Issues](https://github.com/FrankJeworrek/vibe-coding-guide/issues)
+- **Diskussionen:** [GitHub Discussions](https://github.com/FrankJeworrek/vibe-coding-guide/discussions)
+- **Repository:** https://github.com/FrankJeworrek/vibe-coding-guide
 
 ---
 
