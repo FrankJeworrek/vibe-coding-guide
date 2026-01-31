@@ -1,6 +1,9 @@
 
 # 🚀 Das Universelle Vibe Coding Handbuch | The Universal Vibe Coding Guide
 
+> **🧠 Neu:** Dieses Handbuch ist eine Anwendung eines größeren, universellen Frameworks.
+> **Mehr dazu:** [UNIVERSAL-PATTERN](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN) – Ein Framework für Bewusstsein, Kommunikation und Verstehen.
+
 **Version 3.0** — Sprach-agnostisch | Framework-agnostisch | Team-fähig
 
 ---
@@ -376,6 +379,55 @@ MIT License — Frei verwendbar, modifizierbar und weitergegeben werden.
 - **Issues:** [GitHub Issues](https://github.com/FrankJeworrek/vibe-coding-guide/issues)
 - **Diskussionen:** [GitHub Discussions](https://github.com/FrankJeworrek/vibe-coding-guide/discussions)
 - **Repository:** https://github.com/FrankJeworrek/vibe-coding-guide
+
+---
+
+## 🧠 Das Framework hinter Vibe Coding | The Framework Behind Vibe Coding
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇩🇪 Deutsch
+
+Vibe Coding basiert auf einem universellen Muster:
+
+**PROMPT → KONTEXT → TRANSKRIPTION**
+
+- **Session-Start** = PROMPT ("Lass uns entwickeln")
+- **Session-Context** = KONTEXT (ADRs, bisherige Arbeit, Architektur-Entscheidungen)
+- **Session-End + Handoff** = TRANSKRIPTION (für nächste Session)
+
+Das gesamte Vibe Coding Handbuch wendet dieses Framework systematisch an.
+
+**Mehr über das Framework:**
+- [UNIVERSAL-PATTERN Repository](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN)
+- [Erfolgreiches Experiment](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN/tree/main/experiments/successful-2026-01-31) (Wie das Framework entdeckt wurde)
+- [Gescheitertes Experiment](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN/tree/main/experiments/failed-2026-01-31) (Warum KONTEXT-Kontrolle wichtig ist)
+
+</td>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+
+Vibe Coding is based on a universal pattern:
+
+**PROMPT → CONTEXT → TRANSCRIPTION**
+
+- **Session-Start** = PROMPT ("Let's develop")
+- **Session-Context** = CONTEXT (ADRs, previous work, architecture decisions)
+- **Session-End + Handoff** = TRANSCRIPTION (for next session)
+
+The entire Vibe Coding guide systematically applies this framework.
+
+**Learn more about the framework:**
+- [UNIVERSAL-PATTERN Repository](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN)
+- [Successful Experiment](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN/tree/main/experiments/successful-2026-01-31) (How the framework was discovered)
+- [Failed Experiment](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN/tree/main/experiments/failed-2026-01-31) (Why CONTEXT control matters)
+
+</td>
+</tr>
+</table>
 
 ---
 
