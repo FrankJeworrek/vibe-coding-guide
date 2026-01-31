@@ -7,7 +7,7 @@
 .continuity/sessions/*.yml
 
 # Private Planning Documents (NICHT committen!)
-.continuity/private/
+.continuity/private
 PERSONAL_*.md
 *_PRIVATE.md
 COMMERCIAL_PLANS.md
