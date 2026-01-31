@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Session Management (lokale Sessions nicht committen)
+.continuity/sessions/*.yml
+
+# Private Planning Documents (NICHT committen!)
+.continuity/private/
+PERSONAL_*.md
+*_PRIVATE.md
+COMMERCIAL_PLANS.md
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Rust
+/target/
+**/*.rs.bk
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build artifacts
+dist/
+build/
+*.o
+*.a
