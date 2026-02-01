@@ -48,6 +48,11 @@
 - [Appendix D: Quick Reference](#appendix-d-quick-reference)
 - [Appendix E: Weitere Ressourcen](#appendix-e-weitere-ressourcen)
 
+**[Teil VI: Advanced Vibe Patterns](#teil-vi-advanced-vibe-patterns)**
+- [1. Context Injection Protocol](#1-context-injection-protocol)
+- [2. Prompt Library](#2-prompt-library)
+- [3. Stability Guard](#3-stability-guard)
+
 ---
 
 # Teil I: Grundlagen
@@ -6601,8 +6606,8 @@ Dieses Handbuch wurde selbst mit der 6-Phasen-Methodik erstellt!
 
 ---
 
-**Version:** 3.0.0
-**Datum:** 2026-01-31
+**Version:** 3.1.0
+**Datum:** 2026-02-01
 **Autor:** Frank Jeworrek
 **Basierend auf:** THE_SONG_APP Project (28 Wochen, 2025-2026)
 **Lizenz:** CC BY-NC-SA 4.0
