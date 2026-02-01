@@ -359,7 +359,7 @@ Prompt: "Review this code for:
 ## Next Steps
 
 ### Option 1: Complete Guide (30 Min Reading Time)
-→ [AGNOSTIC_VIBE_CODING_GUIDE_v3.0_EN.md](AGNOSTIC_VIBE_CODING_GUIDE_v3.0_EN.md)
+→ [AGNOSTIC_VIBE_CODING_GUIDE_v3.1_EN.md](AGNOSTIC_VIBE_CODING_GUIDE_v3.1_EN.md)
 
 **Contains:**
 - All 6 phases (detailed)
@@ -397,7 +397,7 @@ ls -la
 
 ## Resources
 
-- **Main Guide (EN):** [AGNOSTIC_VIBE_CODING_GUIDE_v3.0_EN.md](AGNOSTIC_VIBE_CODING_GUIDE_v3.0_EN.md)
+- **Main Guide (EN):** [AGNOSTIC_VIBE_CODING_GUIDE_v3.1_EN.md](AGNOSTIC_VIBE_CODING_GUIDE_v3.1_EN.md)
 - **Quick Start (DE):** [QUICK_START_DE.md](QUICK_START_DE.md)
 - **Templates:** [templates/](templates/)
 - **Scripts:** [scripts/](scripts/)

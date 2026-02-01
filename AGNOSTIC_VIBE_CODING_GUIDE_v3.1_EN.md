@@ -1,7 +1,7 @@
-# The Universal Vibe Coding Handbook v3.0
+# The Universal Vibe Coding Handbook v3.1
 
-**Version:** 3.0.0
-**Last Updated:** 2026-01-31
+**Version:** 3.1.0
+**Last Updated:** 2026-02-01
 **Language:** English
 **Status:** Stable Release
 
@@ -6608,7 +6608,31 @@ This manual was itself created with the 6-phase methodology!
 **Date:** 2026-01-31
 **Author:** Frank Jeworrek
 **Based on:** THE_SONG_APP Project (28 weeks, 2025-2026)
-**License:** MIT
+**License:** CC BY-NC-SA 4.0
 
 **Contributions Welcome:** [CONTRIBUTING.md](CONTRIBUTING.md)
 
+
+---
+
+# Part VI: Advanced Vibe Patterns
+
+> **Status:** Experimental / Advanced
+> **License:** CC BY-NC-SA 4.0 (Universal Patterns)
+
+This section formally integrates proven "Universal Patterns" for maximum stability and context control.
+
+## 1. Context Injection Protocol
+Prevent AI assistant memory loss by using structured context blocks.
+
+**Template:** `templates/context/context-block.md`
+**Usage:** Copy this block to the top of EVERY prompt.
+
+## 2. Prompt Library
+Why reinvent the wheel? Use standardized prompts for recurring tasks.
+
+- **Session Start:** `templates/prompts/continue-session.md`
+- **Debugging:** `templates/prompts/debug-issue.md`
+
+## 3. Stability Guard
+Prevent regressions by using a strict checklist BEFORE implementing new features.

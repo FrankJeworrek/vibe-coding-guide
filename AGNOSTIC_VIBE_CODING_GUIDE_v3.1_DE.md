@@ -1,7 +1,7 @@
-# Das Universelle Vibe Coding Handbuch v3.0
+# Das Universelle Vibe Coding Handbuch v3.1
 
-**Version:** 3.0.0
-**Letzte Aktualisierung:** 2026-01-31
+**Version:** 3.1.0
+**Letzte Aktualisierung:** 2026-02-01
 **Sprache:** Deutsch
 **Status:** Stable Release
 
@@ -6605,7 +6605,7 @@ Dieses Handbuch wurde selbst mit der 6-Phasen-Methodik erstellt!
 **Datum:** 2026-01-31
 **Autor:** Frank Jeworrek
 **Basierend auf:** THE_SONG_APP Project (28 Wochen, 2025-2026)
-**Lizenz:** MIT
+**Lizenz:** CC BY-NC-SA 4.0
 
 **Beiträge willkommen:** [CONTRIBUTING.md](CONTRIBUTING.md)
 

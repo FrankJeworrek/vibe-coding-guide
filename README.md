@@ -4,7 +4,7 @@
 > **🧠 Neu:** Dieses Handbuch ist eine Anwendung eines größeren, universellen Frameworks.
 > **Mehr dazu:** [UNIVERSAL-PATTERN](https://github.com/FrankJeworrek/UNIVERSAL-PATTERN) – Ein Framework für Bewusstsein, Kommunikation und Verstehen.
 
-**Version 3.0** — Sprach-agnostisch | Framework-agnostisch | Team-fähig
+**Version 3.1** — Sprach-agnostisch | Framework-agnostisch | Team-fähig
 
 ---
 
@@ -16,13 +16,13 @@
 
 ### 🇩🇪 Deutsch
 
-**[→ Zum vollständigen Guide (DE)](AGNOSTIC_VIBE_CODING_GUIDE_v3.0_DE.md)**
+**[→ Zum vollständigen Guide (DE)](AGNOSTIC_VIBE_CODING_GUIDE_v3.1_DE.md)**
 
 **[→ Quick Start (5 Minuten)](QUICK_START_DE.md)**
 
 Ein umfassendes Handbuch für professionelles Vibe Coding mit AI-Assistenten. Funktioniert mit jeder Programmiersprache, jedem Framework und für Teams jeder Größe.
 
-**Was ist neu in v3.0:**
+**Was ist neu in v3.1:**
 - ✅ Multi-Stack-Agnostik (Python, JavaScript, Go, Rust, Java)
 - ✅ Team-Kollaborations-Patterns (Solo → Groß)
 - ✅ CI/CD Integration (GitHub Actions, GitLab, Jenkins, CircleCI)
@@ -35,13 +35,13 @@ Ein umfassendes Handbuch für professionelles Vibe Coding mit AI-Assistenten. Fu
 
 ### 🇬🇧 English
 
-**[→ Full Guide (EN)](AGNOSTIC_VIBE_CODING_GUIDE_v3.0_EN.md)**
+**[→ Full Guide (EN)](AGNOSTIC_VIBE_CODING_GUIDE_v3.1_EN.md)**
 
 **[→ Quick Start (5 Minutes)](QUICK_START_EN.md)**
 
 A comprehensive guide for professional Vibe Coding with AI assistants. Works with any programming language, any framework, and for teams of any size.
 
-**What's new in v3.0:**
+**What's new in v3.1:**
 - ✅ Multi-Stack Agnostic (Python, JavaScript, Go, Rust, Java)
 - ✅ Team Collaboration Patterns (Solo → Large)
 - ✅ CI/CD Integration (GitHub Actions, GitLab, Jenkins, CircleCI)
@@ -61,7 +61,7 @@ A comprehensive guide for professional Vibe Coding with AI assistants. Works wit
 
 | Deutsch 🇩🇪 | English 🇬🇧 | Beschreibung | Description |
 |-------------|-------------|--------------|-------------|
-| [Haupt-Guide](AGNOSTIC_VIBE_CODING_GUIDE_v3.0_DE.md) | [Main Guide](AGNOSTIC_VIBE_CODING_GUIDE_v3.0_EN.md) | Vollständiges Handbuch (3000+ Zeilen) | Complete guide (3000+ lines) |
+| [Haupt-Guide](AGNOSTIC_VIBE_CODING_GUIDE_v3.1_DE.md) | [Main Guide](AGNOSTIC_VIBE_CODING_GUIDE_v3.1_EN.md) | Vollständiges Handbuch (3000+ Zeilen) | Complete guide (3000+ lines) |
 | [Quick Start](QUICK_START_DE.md) | [Quick Start](QUICK_START_EN.md) | 5-Minuten Einstieg | 5-minute introduction |
 
 ### Templates
@@ -202,7 +202,7 @@ A comprehensive guide for professional Vibe Coding with AI assistants. Works wit
 1. **Guide lesen:**
    ```bash
    # Vollständiger Guide (30 Min Lesezeit)
-   less AGNOSTIC_VIBE_CODING_GUIDE_v3.0_DE.md
+   less AGNOSTIC_VIBE_CODING_GUIDE_v3.1_DE.md
 
    # Oder: Quick Start (5 Min)
    less QUICK_START_DE.md
@@ -239,7 +239,7 @@ A comprehensive guide for professional Vibe Coding with AI assistants. Works wit
 1. **Read the guide:**
    ```bash
    # Full guide (30 min read)
-   less AGNOSTIC_VIBE_CODING_GUIDE_v3.0_EN.md
+   less AGNOSTIC_VIBE_CODING_GUIDE_v3.1_EN.md
 
    # Or: Quick Start (5 min)
    less QUICK_START_EN.md
@@ -411,7 +411,7 @@ Modifications must be shared under the same license.
 
 **Autor | Author:** Frank Jeworrek
 **Basierend auf | Based on:** THE_SONG_APP Project (28 weeks, 2025-2026)
-**Version:** 3.0.0 (2026-01-31)
+**Version:** 3.1.0 (2026-02-01)
 
 ---
 
