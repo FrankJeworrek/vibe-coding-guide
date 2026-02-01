@@ -4048,6 +4048,7 @@ Phase 2 ist wo der **echte Code** entsteht. Hier implementieren Sie die Kern-Fea
 
 **Kern-Deliverables:**
 1. ✅ Minimum Viable Product (MVP) Features
+> **Tip:** Nutzen Sie [Teil VI: Advanced Vibe Patterns](#teil-vi-advanced-vibe-patterns) für Context Injection während der Implementierung.
 2. ✅ Kern-Business-Logic
 3. ✅ Datenbank-Integration
 4. ✅ UI-Komponenten (funktional, nicht perfekt)
@@ -5154,6 +5155,7 @@ Phase 5 ist **"Break it before users do"**. Comprehensive Testing + Bug Fixing.
 
 **Kern-Deliverables:**
 1. ✅ E2E Tests (alle kritischen User-Flows)
+> **Tip:** Nutzen Sie den [Stability Guard](#3-stability-guard) um Regressionen zu vermeiden.
 2. ✅ Cross-Platform Testing (Windows, Mac, Linux)
 3. ✅ Security Audit (Dependencies + Code)
 4. ✅ Performance Testing (Stress-Tests)
@@ -6606,3 +6608,28 @@ Dieses Handbuch wurde selbst mit der 6-Phasen-Methodik erstellt!
 **Lizenz:** MIT
 
 **Beiträge willkommen:** [CONTRIBUTING.md](CONTRIBUTING.md)
+
+# Teil VI: Advanced Vibe Patterns
+
+> **Status:** Experimental / Advanced
+> **License:** CC BY-NC-SA 4.0 (Universal Patterns)
+
+Dieser Teil integriert bewährte "Universal Patterns" für maximale Stabilität und Kontext-Kontrolle.
+
+## 1. Context Injection Protocol
+Vermeiden Sie Gedächtnisverlust des AI-Assistenten durch strukturierte Kontext-Blöcke.
+
+**Template:** `templates/context/context-block.md`
+**Anwendung:** Kopieren Sie diesen Block an den Anfang JEDES Prompts.
+
+## 2. Prompt Library
+Warum das Rad neu erfinden? Nutzen Sie standardisierte Prompts für wiederkehrende Aufgaben.
+
+- **Session Start:** `templates/prompts/continue-session.md`
+- **Debugging:** `templates/prompts/debug-issue.md`
+
+## 3. Stability Guard
+Verhindern Sie Regressionen durch eine strikte Checkliste VOR neuen Features.
+
+**Template:** `templates/quality/stability-checklist.md`
+**Regel:** Wenn >1 Punkt nicht erfüllt ist, MUSS eine Stabilisierungs-Session eingelegt werden.
